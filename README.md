@@ -46,8 +46,8 @@ I'm a MERN Stack Developer on a mission to turn complex ideas into elegant web a
 ## 🔥 Currently
 
 - 🏗️ Building: **[Your current project]**
-- 📖 Learning: *React.js + Next.js*
-- 👀 Open to: *Internships & junior developer roles*
+- 📖 Learning: **React.js + Next.js**
+- 👀 Open to: **Internships & junior developer roles**
 
 ---
 
