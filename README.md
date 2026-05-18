@@ -39,7 +39,7 @@ I'm a MERN Stack Developer on a mission to turn complex ideas into elegant web a
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="40%" />
-</p>
+</p> 
 
 ---
 
