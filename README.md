@@ -1,6 +1,6 @@
 <!-- Header -->
 <h2 align="left">
-  Hi there, I'm Niloy Hasan.
+  Hi there, I'm Niloy Hasan. 👋
 </h2>
 
 ## 🚀 About Me
