@@ -1,6 +1,6 @@
 <!-- Header -->
 <h2 align="left">
-  Hi there, I'm Tamjid Hasan Niloy. 
+  Hi there, I'm Tamjid Hasan Niloy. 👋
 </h2>
 
 ## 🚀 About Me
